@@ -18,3 +18,4 @@ Commands in sms are not case sensitive: RON1 = rOn1 = ron1, etc.
 But command syntax remains the same: TEXT + DIGIT.
 
 ## Wiring diagram
+![Wiring diagram](https://raw.githubusercontent.com/aosmirnov/arduino-sim800-relay/54ef45870f8c851b9632519664974b14b055b622/wiring.jpg)
